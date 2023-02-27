@@ -5,3 +5,27 @@ form {
     width: 50%;
     margin: auto;
 }
+
+#submit {
+    width: 15%;
+    margin: auto;
+}
+
+#button-1:hover {
+    background-color: red;
+
+}
+ 
+#label_name:focus {
+    border-style: solid;
+    outline: 0;
+}
+
+#label2:focus {
+    border-style: solid;
+}
+
+
+
+
+
