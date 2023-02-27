@@ -1,4 +1,7 @@
 form {
     display: flex;
     flex-direction: column;
+    background-color: aqua;
+    width: 50%;
+    margin: auto;
 }
