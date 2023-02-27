@@ -23,6 +23,7 @@ form {
 
 #label2:focus {
     border-style: solid;
+    outline: 0;
 }
 
 
