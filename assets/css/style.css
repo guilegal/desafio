@@ -8,10 +8,24 @@ form {
 #submit {
     width: 15%;
     margin: auto;
+  
+}
+
+#submit:hover{
+
+    background-color: aquamarine;
+    color: antiquewhite;
+}
+#button-1 {
+    width: 15%;
+    margin: auto;
+   
+
 }
 
 #button-1:hover {
     background-color: darkcyan;
+ color: aliceblue;
 
 }
  
@@ -23,6 +37,14 @@ form {
 #label2:focus {
     border-style: solid;
     outline: 0;
+}
+
+input {
+    margin: 10px;
+}
+
+body {
+    background-color: tomato;
 }
 
 
