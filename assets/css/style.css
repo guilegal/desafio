@@ -3,7 +3,7 @@ form {
     flex-direction: column;
     width: 50%;
     margin: auto;
-}
+}   
 
 #submit {
     width: 15%;
@@ -45,6 +45,7 @@ input {
 
 body {
     background-color: tomato;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 
